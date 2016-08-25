@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Macroid Client</string>
+
+    <string name="btn_connect">Conectar</string>
+
+    <!--Extras keys-->
+    <string name="CONNECTION_EXTRA">conn_extra</string>
+
+    <!--Botones macro-->
+    <string name="macro_0">M0</string>
+    <string name="macro_1">M1</string>
+    <string name="macro_2">M2</string>
+    <string name="macro_3">M3</string>
+    <string name="macro_4">M4</string>
+    <string name="macro_5">M5</string>
+
+
+    <string-array name="macros">
+        <item>@string/macro_0</item>
+        <item>@string/macro_1</item>
+        <item>@string/macro_2</item>
+        <item>@string/macro_3</item>
+        <item>@string/macro_4</item>
+        <item>@string/macro_5</item>
+    </string-array>
+</resources>
